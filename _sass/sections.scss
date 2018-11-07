@@ -106,10 +106,13 @@ section.timeline {
   .pnp-timeline__date {
     display: inline-block;
     border: none;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background: $dark;
+    color: white;
     @include media-query($small) {
       position: absolute;
       color: $dark;
-      //width: 100%;
       left: 122%;
       top: 34px;
       background: white;
@@ -237,7 +240,10 @@ section.list {
 }
 
 section.about {
-  margin-top: 150px;
+  margin-top: 100px;
+  @include media-query($small){
+    margin-top: 150px;
+  };
   .about__head {
     width: 100%;
     margin: 0 auto;

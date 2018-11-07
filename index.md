@@ -86,8 +86,8 @@ focus:
 
     Now it is your turn. What are you going to choose?
   items:
-    - Innovation Management & Technology/StartUp Scouting
-    - Corporate Innovation Management / Business Development
+    - Innovation Management & Technology<br><br>StartUp Scouting
+    - Corporate Innovation Management<br><br>Business Development
 requirements:
   title: What you<br>should<br>bring
   list:
