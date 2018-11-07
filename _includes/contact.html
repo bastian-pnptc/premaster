@@ -1,0 +1,11 @@
+<section class="contact bg_dark sans-serif">
+  <div class="green ttu contact__item">
+    <h2 class="no_margin">{{ page.contact.title }}</h2>
+  </div>
+  <div class="white contact__item">
+    <p class="contact__name b big">{{ page.contact.address.name }}</p>
+    <p class="contact__position small ttu">{{ page.contact.address.position }}</p>
+    <p class="contact__phone">{{ page.contact.address.phone }}</p>
+    <p class="contact__email"><a href="mailto:{{ page.contact.address.email }}">{{ page.contact.address.email }}</a></p>
+  </div>
+</section>

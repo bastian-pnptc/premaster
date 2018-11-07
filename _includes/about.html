@@ -1,0 +1,18 @@
+<section class="about sans-serif">
+  <div class="about__head">
+    <h2 class="ttu green no_margin">{{ page.about.title }}</h2>
+  </div>
+  <div class="about__frame white">
+    {% for el in page.about.items %}
+    <div class="about__item">
+      <div class="about__inner">
+        <h3>{{ el.title }}</h3>
+        <div class="about__logo">
+          {% include svg/{{el.logo}}.svg %}
+        </div>
+        {{ el.description | markdownify }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

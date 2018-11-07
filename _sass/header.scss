@@ -1,0 +1,46 @@
+section.header {
+  min-height: 100vh;
+  background-color: $dark;
+  width: 100%;
+  padding: 50px 0 120px;
+  @include display_flex;
+  @include justify-content(center);
+  @include align-items(center);
+  @include direction_column;
+  .logo_container {
+    margin-top: -1vw;
+    text-align: center;
+    font-size: .7rem;
+    svg {
+      fill: white;
+      width: 150px;
+      margin-top: 10px;
+    }
+    span {
+      font-size: 8rem;
+      margin: 0 50px;
+    }
+  }
+  .tagline {
+    margin-bottom: 20px;
+    &>p {
+      color: white;
+      letter-spacing: .12em;
+      text-align: center;
+    }
+  }
+  .slabcontainer {
+    padding: 10px 10px 0;
+    width: 100%;
+    h1 {
+      font-size: 26px;
+      margin: 0;
+      text-transform: uppercase;
+      line-height: .8;
+    }
+  }
+  .scroll_indicator {
+    position: absolute;
+    bottom: 50px;
+  }
+}

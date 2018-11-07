@@ -1,0 +1,20 @@
+<section class="alumni sans-serif">
+  <div class="alumni__title">
+    <div class="title__inner">
+      <h2 class="no_margin green ttu">{{ page.alumni.title }}</h2>
+      {% include svg/study.svg %}
+    </div>
+  </div>
+  <div class="alumni__items">
+    <div class="alumni__item alumni__intro">
+      {{ page.alumni.intro }}
+    </div>
+    <div class="alumni__item">
+      {% for el in page.alumni.perks %}
+      <div class="alumni__perk bg_dark br white">
+        {{ el }}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

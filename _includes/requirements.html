@@ -1,0 +1,12 @@
+<section class="list sans-serif bg_dark">
+  <div class="list__title">
+    <h2 class="ttu no_margin">{{ page.requirements.title }}</h2>
+  </div>
+  <div class="list__frame white">
+    {% for el in page.requirements.list %}
+    <div class="list__item dark br">
+      <p>{{ el }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

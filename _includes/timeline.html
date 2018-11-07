@@ -1,0 +1,18 @@
+<section class="timeline">
+  <div class="pnp-timeline">
+
+    {% for el in page.timeline %}
+    <div class="pnp-timeline__block">
+      <div class="pnp-timeline__img">
+
+      </div>
+      <div class="pnp-timeline__content br sans-serif">
+        <h3 class="ttu no_margin">{{ el.title }}</h3>
+        <p>{{ el.content | markdownify }}</p>
+        <span class="pnp-timeline__date br ttu">{{ el.date }}</span>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>

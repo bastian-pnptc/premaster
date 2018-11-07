@@ -1,0 +1,13 @@
+<section class="focus sans-serif">
+  <div class="focus__title">
+    <h2 class="green no_margin ttu">{{ page.focus.title }}</h2>
+    {{ page.focus.intro | markdownify }}
+  </div>
+  <div class="focus__items">
+    {% for el in page.focus.items %}
+    <div class="focus__item bg_dark br white">
+      <p>{{ el }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
