@@ -70,7 +70,7 @@ about:
         Founded by Plug and Play, Daimler AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we accelerate - together with our 19 corporate partners - startups which develop innovative solutions in the field of Future Mobility and Smart Production.
 alumni:
   title: Alumni<br>Perks.
-  tag_line: What happens during your studies
+  tagline: 'What happens during your studies:'
   intro: >
     You will start your master’s degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
   perks:
