@@ -42,7 +42,7 @@ timeline:
     date: 4 months
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
-  title: What<br>we<br>offer
+  title: What<br>we<br>offer.
   list:
     - Be part of Plug & Play - the biggest and fastest growing startup innovation platform globally with locations worldwide such as Silicon Valley, Paris, Amsterdam, Munich, Berlin, Singapore and Beijing.
     - Be at the forefront of innovation and get access to groundbreaking technologies
@@ -53,7 +53,7 @@ what_we_offer:
     - Contribute and realize your own ideas and have room for self-development
     - All our offices are located in great co-working spaces such as ARENA2036
 about:
-  title: About us
+  title: About us.
   intro: >
     Rutrum nec elementum tristique potenti phasellus venenatis est, consectetur sagittis ut maecenas curae gravida. Dictumst duis proin taciti magnis velit arcu platea posuere dolor, faucibus purus viverra mus gravida eros eleifend turpis integer, sem sapien blandit semper mi suscipit pretium eu. Dolor magnis sociosqu lobortis augue odio accumsan, tempus aliquet amet magna porta fermentum, nisi ac vulputate massa ante.
   items:
@@ -69,7 +69,7 @@ about:
 
         Founded by Plug and Play, Daimler AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we accelerate - together with our 19 corporate partners - startups which develop innovative solutions in the field of Future Mobility and Smart Production.
 alumni:
-  title: Alumni<br>Perks
+  title: Alumni<br>Perks.
   tag_line: What happens during your studies
   intro: >
     You will start your master’s degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
@@ -79,7 +79,7 @@ alumni:
     - Visit all of our events globally to keep growing your network and meeting new friends
     - Need a topic and an adviser for your master thesis? We will support you.
 focus:
-  title: <span class="small">Pick your</span><br><span class="big">focus</span>
+  title: <span class="small">Pick your</span><br><span class="big">focus.</span>
   intro: >
     We know that we are all individual human beeings and as such our capabilities, our knowledge and our interests highly diverge from each other. Taking that into account we created two different programs which are united in the underlying idea and structure but seperate each other regarding the business sector they focus on.
 
@@ -89,7 +89,7 @@ focus:
     - Innovation Management & Technology<br><br>StartUp Scouting
     - Corporate Innovation Management<br><br>Business Development
 requirements:
-  title: What you<br>should<br>bring
+  title: What you<br>should<br>bring.
   list:
     - You just received your Bachelor’s degree in Economics, Business, Engineering, Informatics or similar and you would like to start a masters program within the next 18 months
     - Exceptionally strong analytical, research, and writing skills and an innate curiosity
