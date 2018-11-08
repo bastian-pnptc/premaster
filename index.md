@@ -1,6 +1,6 @@
 ---
 layout: home
-tagline: Just finished your bachelor and are ready for something new?
+tagline: Just finished your bachelor and ready for something new?
 title: Innovation PreMaster
 overview:
   title: overview.
