@@ -3,7 +3,7 @@ layout: home
 tagline: Just finished your bachelor and ready for something new?
 title: Innovation PreMaster
 overview:
-  title: overview.
+  title: Boost your career.
   content: >
     You just got your bachelor’s degree but you are unsure of what exactly you would like to do next? We feel you! You probably want to have it all: See the world, improve your language skills, take the time to explore the best masters program for you, get hands-on insights by doing relevant work experience and grow your network. If that sounds like you, you’re in the right place - thanks to our unique global innovation platform you can have it all!
 

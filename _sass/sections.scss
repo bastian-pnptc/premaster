@@ -35,6 +35,9 @@ h2.pnp_headline {
     background-color: $green;
     z-index: -1;
   }
+  @include media-query($medium) {
+    white-space: nowrap;
+  };
 }
 
 section.timeline {
