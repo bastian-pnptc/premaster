@@ -8,7 +8,7 @@ section.header {
   @include align-items(center);
   @include direction_column;
   .logo_container {
-    margin-top: -1vw;
+    margin-top: 1vw;
     text-align: center;
     font-size: .7rem;
     svg {
