@@ -309,7 +309,6 @@ section.about {
 }
 
 section.alumni {
-  overflow: hidden;
   margin: 100px 0;
   @include media-query($small){
     margin: 150px 0;
