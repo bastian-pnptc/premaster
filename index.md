@@ -79,7 +79,7 @@ alumni:
     - Visit all of our events globally to keep growing your network and meeting new friends
     - Need a topic and an adviser for your master thesis? We will support you.
 focus:
-  title: <span class="small">Pick your</span><br><span class="big">focus.</span>
+  title: <span class="very-small">Pick your</span><br><span class="big">focus.</span>
   intro: >
     We know that we are all individual human beeings and as such our capabilities, our knowledge and our interests highly diverge from each other. Taking that into account we created two different programs which are united in the underlying idea and structure but seperate each other regarding the business sector they focus on.
 
