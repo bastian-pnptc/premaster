@@ -6,10 +6,16 @@ sitemap:
 // slabText
 {% include js/jquery.slabtext.min.js %}
 
+function calcSlab() {
+  $("h1, section.break p").slabText({
+      "viewportBreakpoint":180
+  });
+}
+
 $( document ).ready(function() {
+  calcSlab()
+
   setTimeout( function(){
-    $("h1, section.break p").slabText({
-        "viewportBreakpoint":180
-    });
+    calcSlab()
   }, 1000);
 });
