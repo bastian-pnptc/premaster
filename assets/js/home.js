@@ -7,7 +7,9 @@ sitemap:
 {% include js/jquery.slabtext.min.js %}
 
 $( document ).ready(function() {
-  $("h1, section.break p").slabText({
-      "viewportBreakpoint":180
-  });
+  setTimeout( function(){
+    $("h1, section.break p").slabText({
+        "viewportBreakpoint":180
+    });
+  }, 1000);
 });
