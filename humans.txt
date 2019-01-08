@@ -1,0 +1,39 @@
+---
+---
+PLUG AND PLAY Premaster
+powered by Plug and Play in cooperation with Daimler AG
+
+www.startup-autobahn.com/de/
+www.plugandplaytechcenter.com
+_______________________________________
+
+Last build process on {{ site.time }}
+via {{ site.url }}
+_______________________________________
+
+AUTHOR
+Bastian Kroggel (bastian@pnptc.com)
+@derKroggel
+www.bastiankroggel.com
+_______________________________________
+
+Based upon the following projects:
+
+- HEAD by Josh Buchea
+  A list of everything that *could* go in the <head> of your document.
+  https://github.com/joshbuchea/HEAD
+
+- slabText by Brian McAllister
+  A jQuery plugin for producing big, bold & responsive headlines
+  http://freqdec.github.io/slabText/
+_______________________________________
+
+CHANGELOG
+
+20190108 1533
+FIRST REVISION
+Added important links. Improvements for a broader pre-launch audience.
+
+20181107 2335
+INITIAL COMMIT
+First presentable view.

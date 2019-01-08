@@ -6,7 +6,12 @@
   <div class="focus__items">
     {% for el in page.focus.items %}
     <div class="focus__item bg_dark br white">
-      <p>{{ el }}</p>
+      {% unless el.active %}
+      <div class="coming_soon">
+        {% include svg/coming_soon.svg %}
+      </div>
+      {% endunless %}
+      <p>{{ el.title }}</p>
     </div>
     {% endfor %}
   </div>

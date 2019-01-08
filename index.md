@@ -40,7 +40,7 @@ timeline:
     content: >
       Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
     date: 4 months
-break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p class="green">innovation platform</p><p>in Europe</p>
+break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
   list:
@@ -61,6 +61,10 @@ about:
       logo: pnp_pri_blk_rgb
       description: >
         Over the past 12 years, we have built the worldwide largest innovation platform, bringing together startups, corporations and investors. Our core objective is to boost technological advancement and innovation. We are now active in 22 locations globally, including U.S., China, Germany, Singapore, and Mexico. With over 6,000 startups and 126 corporate partners, it is the ultimate startup ecosystem in many industries. Since inception, we have raised over $6 billion in venture funding and made over 160 investments globally every year. Some of our success stories incl.: Dropbox, PayPal and SoundHound.
+    - title: Daimler AG
+      logo: daimler_pri_wht_rgb
+      description: >
+        Praesent lacinia felis potenti laoreet condimentum ornare, morbi porttitor egestas aliquam dapibus interdum iaculis, tellus curae aenean neque vel. Etiam cras molestie finibus venenatis per placerat mus nascetur vehicula cubilia eros, eu vulputate consequat egestas mauris magnis in ligula suspendisse a bibendum, fermentum class ridiculus lacinia praesent platea pharetra mi interdum proin. Taciti adipiscing dui phasellus leo finibus sapien eleifend vehicula est vel neque facilisis integer, porta sollicitudin orci felis lacinia suscipit nascetur dictumst vitae class mus. Auctor purus dignissim praesent tellus turpis lacinia ornare, fames sollicitudin fermentum nullam tristique nisi, lobortis urna torquent etiam tortor donec.
     - title: STARTUP AUTOBAHN
       logo: sa_pri_black_rgb
       description: >
@@ -86,8 +90,10 @@ focus:
 
     Now it is your turn. What are you going to choose?
   items:
-    - Innovation Management & Technology<br><br>StartUp Scouting
-    - Corporate Innovation Management<br><br>Business Development
+    - title: Innovation Management & Technology<br><br>StartUp Scouting
+      active: false
+    - title: Corporate Innovation Management<br><br>Business Development
+      active: true
 requirements:
   title: What you<br>should<br>bring.
   list:
@@ -111,4 +117,6 @@ contact:
     position: Ventures Director
     phone: +49 (0) 177 302 1485
     email: daniel@pnptc.com
+footer:
+  - '1: Daimler currently solely cooperates within the <b>Innovation Management & Technology</b> branch.'
 ---

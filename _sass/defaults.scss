@@ -152,11 +152,19 @@ p {
   font-size: 120%;
 }
 
+sup {
+  top: -.8em;
+  margin-left: .3em;
+  font-size: 60%;
+}
+
 // import other files
 @import
   "typography_base",
   "slabtext",
   "animation_header",
   "header",
-  "sections"
+  "sections",
+  "four_o_four",
+  "static"
 ;

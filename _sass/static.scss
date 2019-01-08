@@ -1,0 +1,30 @@
+section.static_header {
+  background: $dark;
+  margin-top: 0;
+  min-height: 60vh;
+  margin-bottom: 150px;
+  @include display_flex;
+  @include justify-content(center);
+  @include align-items(center);
+  .static_header__frame {
+    width: 100%;
+    max-width: 750px;
+    padding: 0 10px;
+  }
+  h1 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+section.static {
+  max-width: 750px;
+  margin: 0 auto 150px;
+  padding: 0 1em;
+}
+
+p.timestamp {
+  font-weight: 700;
+  opacity: .6;
+  font-size: 60%;
+}

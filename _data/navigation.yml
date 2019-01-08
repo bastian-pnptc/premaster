@@ -1,0 +1,18 @@
+footer:
+  - name: STARTUP AUTOBAHN
+    url: https://startupautobahn.com
+  - name: Imprint
+    url: /imprint/
+  - name: Privacy Policy
+    url: /privacy_policy/
+
+social:
+  - name: Twitter
+    icon: fab fa-twitter
+    url: https://twitter.com/@startupautobahn
+  - name: LinkedIn
+    icon: fab fa-linkedin-in
+    url:  https://linkedin.com/startupautobahn
+  - name: Instagram
+    icon: fab fa-instagram
+    url: https://instagram.com/startupautobahn
