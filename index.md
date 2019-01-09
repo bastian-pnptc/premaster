@@ -106,10 +106,10 @@ alumni:
   intro: >
     You will start your master’s degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
   perks:
-    - Your supervisor will be your mentor in case you need expert guidance
-    - A position as a working student if it fits your schedule
+    - Your Plug and Play supervisor will be your mentor in case you need expert guidance
+    - A position as a working student if it fits the circumstances
     - Visit all of our events globally to keep growing your network and meeting new friends
-    - Need a topic and an adviser for your master thesis? We will support you.
+    - Need support with your master thesis? We’re happy to help!
 focus:
   title: <span class="very-small">Pick your</span><br><span class="big">focus.</span>
   intro: >
@@ -120,8 +120,19 @@ focus:
   items:
     - title: Innovation Management & Technology<br><br>StartUp Scouting
       active: false
+      info:
+        - Find interesting startups from all around the world and build relationships with them
+        - Create detailed profiles about interesting startups
+        - Source and evaluate new investment opportunities
+        - Provide solid consult to portfolio companies and schedule deal review sessions
+        - Develop and drive new initiatives together with our corporate partners
     - title: Corporate Innovation Management<br><br>Business Development
       active: true
+      info:
+        - Manage and strengthen the relationship with our corporate partners like Porsche, BASF, Deutsche Post DHL Group, Hewlett Packard Enterprise, Daimler, ...
+        - Identify potential new strategic partners to join our platform
+        - Build and design our new service offering in our corporate facing documents
+        - Prepare reports for our headquarter in Silicon Valley
 requirements:
   title: What you<br>should<br>bring.
   list:
@@ -146,5 +157,5 @@ contact:
     phone: +49 (0) 177 302 1485
     email: daniel@pnptc.com
 footer:
-  - '1: Daimler currently solely cooperates within the <b>Innovation Management & Technology</b> branch.'
+  - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b>.'
 ---

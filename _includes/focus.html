@@ -5,13 +5,22 @@
   </div>
   <div class="focus__items">
     {% for el in page.focus.items %}
-    <div class="focus__item bg_dark br white">
-      {% unless el.active %}
-      <div class="coming_soon">
-        {% include svg/coming_soon.svg %}
+    <div class="focus__items_frame">
+      <div class="focus__item bg_dark br white">
+        {% unless el.active %}
+        <div class="coming_soon">
+          {% include svg/coming_soon.svg %}
+        </div>
+        {% endunless %}
+        <p>{{ el.title }}</p>
       </div>
-      {% endunless %}
-      <p>{{ el.title }}</p>
+      <div class="focus_list">
+        {% for item in el.info %}
+        <div class="focus_list__item br bg_dark white">
+          <p>{{ item }}</p>
+        </div>
+        {% endfor %}
+      </div>
     </div>
     {% endfor %}
   </div>
