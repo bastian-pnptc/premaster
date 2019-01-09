@@ -30,6 +30,10 @@ _______________________________________
 
 CHANGELOG
 
+20190109 1547
+MULTI SECTION
+added ability to display multiple timelines and added info panel to the branches
+
 20190108 1533
 FIRST REVISION
 Added important links. Improvements for a broader pre-launch audience.
