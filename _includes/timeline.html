@@ -1,18 +1,29 @@
 <section class="timeline">
-  <div class="pnp-timeline">
+  <div class="pnp-timeline__btn sans-serif">
+    {% for timeline_element in page.timeline %}
+    <p class="br b{% if forloop.first %} active{% endif %}" data-trigger="{{ forloop.index }}">{{ timeline_element.title }}</p>
+    {% endfor %}
+  </div>
+  <div class="pnp-timeline__frame">
 
-    {% for el in page.timeline %}
-    <div class="pnp-timeline__block">
-      <div class="pnp-timeline__img">
 
+    {% for timeline_element in page.timeline %}
+    <div class="pnp-timeline" id="timeline_{{ forloop.index }}">
+
+      {% for el in timeline_element.blocks %}
+      <div class="pnp-timeline__block">
+        <div class="pnp-timeline__img">
+
+        </div>
+        <div class="pnp-timeline__content br sans-serif">
+          <h3 class="ttu no_margin">{{ el.title }}</h3>
+          <p>{{ el.content | markdownify }}</p>
+          <span class="pnp-timeline__date br ttu">{{ el.date }}</span>
+        </div>
       </div>
-      <div class="pnp-timeline__content br sans-serif">
-        <h3 class="ttu no_margin">{{ el.title }}</h3>
-        <p>{{ el.content | markdownify }}</p>
-        <span class="pnp-timeline__date br ttu">{{ el.date }}</span>
-      </div>
+      {% endfor %}
+
     </div>
     {% endfor %}
-
   </div>
 </section>

@@ -10,36 +10,64 @@ overview:
 
     Become part of our great team and gain valuable international experiences! Apply for our PreMaster program and boost you career while having fun!
 timeline:
-  - title: Apply for the Innovation PreMaster Program
-    content: >
-      During the last semester of your degree or even after you graduated
-    date: anytime
-  - title: Stuttgart, Germany
-    content: >
-      Startup Autobahn — our most successful platform located in Stuttgart, Germany
+  - title: Innovation Management & Technology
+    blocks:
+      - title: Apply for the Innovation PreMaster Program
+        content: >
+          During the last semester of your degree or even after you graduated
+        date: anytime
+      - title: Stuttgart, Germany
+        content: >
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany
 
-      Be part of our Business Development or Technology Scouting Team
-    date: 5 months
-  - title: Silicon Valley, USA
-    content: >
-      Be at the heart of innovation at our Headquarter
-    date: 2 weeks
-  - title: Amsterdam, Paris, Munich or Frankfurt
-    content: >
-      Join one of our offices in Europe which are focused on different industries
-    date: 1 week
-  - title: Germany
-    content: >
-      Change perspective by joining one of our corporate partners or one of our portfolio companies
-    date: 2 weeks
-  - title: Take a break!
-    content: >
-      Travel and explore the world
-    date: 1 month
-  - title: Suttgart, Germany
-    content: >
-      Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
-    date: 4 months
+          Be part of our Business Development or Technology Scouting Team
+        date: 5 months
+      - title: Silicon Valley, USA
+        content: >
+          Be at the heart of innovation at our Headquarter
+        date: 2 weeks
+      - title: Amsterdam, Paris, Munich or Frankfurt
+        content: >
+          Join one of our offices in Europe which are focused on different industries
+        date: 1 week
+      - title: Germany
+        content: >
+          Change perspective by joining one of our corporate partners or one of our portfolio companies
+        date: 2 weeks
+      - title: Take a break!
+        content: >
+          Travel and explore the world
+        date: 1 month
+      - title: Suttgart, Germany
+        content: >
+          Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
+        date: 4 months
+  - title: Corporation Innovation Management
+    blocks:
+      - title: Stuttgart, Germany
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
+      - title: SV — Global Mobility headquarter
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
+      - title: Break
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
+      - title: Startup/Ventures Team
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
+      - title: Other PnP Location (Japan, Singapore or others) — optional
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
+      - title: Stuttgart, Germany
+        content: >
+          Sapien habitant fames curabitur consequat euismod elementum.
+        date: now
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
