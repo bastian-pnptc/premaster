@@ -133,11 +133,12 @@ section.timeline {
   z-index: 999;
   @include display_flex;
   @include justify-content(center);
-  @include align-items(strech);
+  @include align-items(stretch);
+  flex-wrap: wrap;
   p {
-    width: calc(100%/2);
+    width: calc(100%);
     background: white;
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 7px 15px 5px;
     @include display_flex;
     @include justify-content(center);
@@ -147,6 +148,13 @@ section.timeline {
     white-space: nowrap;
     &.active {
       background: $green;
+    }
+    @include media-query($small) {
+      font-size: 1.5rem;
+    };
+    @include media-query($medium) {
+      width: calc(100%/2);
+
     }
   }
 }
