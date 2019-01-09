@@ -44,30 +44,34 @@ timeline:
         date: 4 months
   - title: Corporation Innovation Management
     blocks:
+      - title: Apply for the Innovation PreMaster Program
+        content: >
+          During the last semester of your degree or even after you graduated
+        date: anytime
       - title: Stuttgart, Germany
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
-      - title: SV — Global Mobility headquarter
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany Be part of our Corporation Innovation Management Team
+        date: 6 months
+      - title: Silicon Valley — Global Mobility headquarter
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
+          Be at the heart of innovation at our Headquarter
+        date: 2 months
       - title: Break
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
+          Travel and explore the world
+        date: 1 months
       - title: Startup/Ventures Team
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
+          Back in Stuttgart, Germany you get the chance to work together with the Ventures Team to broaden your skills even further
+        date: 2 weeks
       - title: Other PnP Location (Japan, Singapore or others) — optional
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
+          If you are interested to reach out to our other PnP Locations this is your chance to get in touch with one of our international offices
+        date: 2 weeks
       - title: Stuttgart, Germany
         content: >
-          Sapien habitant fames curabitur consequat euismod elementum.
-        date: now
+          You will conclude your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
+        date: 2 months
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
