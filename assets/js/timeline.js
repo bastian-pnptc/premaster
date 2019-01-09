@@ -6,8 +6,10 @@ function num_elements() {
 num_elements();
 
 function calc_height( input ) {
-  var el = '#timeline_' + input
-  $('section.timeline').outerHeight( $(el).outerHeight( true ) );
+  var el = '#timeline_' + input;
+  var el_height = $(el).outerHeight( true );
+  var nav = $('.pnp-timeline__btn').outerHeight( true );
+  $('section.timeline').outerHeight( el_height + nav );
 }
 
 function move( input ) {

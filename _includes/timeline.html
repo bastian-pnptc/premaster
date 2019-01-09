@@ -1,11 +1,10 @@
 <section class="timeline">
   <div class="pnp-timeline__btn sans-serif">
     {% for timeline_element in page.timeline %}
-    <p class="br b{% if forloop.first %} active{% endif %}" data-trigger="{{ forloop.index }}">{{ timeline_element.title }}</p>
+    <p class="b ttu{% if forloop.first %} active{% endif %}" data-trigger="{{ forloop.index }}">{{ timeline_element.title }}</p>
     {% endfor %}
   </div>
   <div class="pnp-timeline__frame">
-
 
     {% for timeline_element in page.timeline %}
     <div class="pnp-timeline" id="timeline_{{ forloop.index }}">
