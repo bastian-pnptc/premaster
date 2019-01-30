@@ -5,7 +5,7 @@ section.timeline {
   .pnp-timeline__frame {
     @include display_flex;
     @include direction_row;
-    @include align-items(flex-start);
+    //@include align-items(flex-start);
     width: 200%;
   }
   .pnp-timeline {
@@ -30,6 +30,21 @@ section.timeline {
     }
     @include media-query($large){
       padding: 2em 1em;
+    };
+  }
+  .pnp-timeline-acknowledgement {
+    background: $dark;
+    padding: 30px;
+    margin-left: 40px;
+    width: calc(100% - 40px);
+    margin-bottom: 7em;
+    border: 2px solid white;
+    z-index: 2;
+    position: relative;
+    @include media-query($small){
+      margin-left: unset;
+      margin: 0 auto;
+      max-width: 600px;
     };
   }
   .pnp-timeline__content {
@@ -59,6 +74,12 @@ section.timeline {
         border-color: transparent;
         border-left-color: #fff;
       };
+    }
+    svg {
+      width: 150px;
+      fill: black;
+      height: auto;
+      margin: 15px 0 5px;
     }
   }
   .pnp-timeline__img {

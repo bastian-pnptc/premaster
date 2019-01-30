@@ -1,7 +1,7 @@
 ---
 layout: home
 tagline: Just finished your bachelor and ready for something new?
-title: Innovation PreMaster
+title: Automotive PreMaster
 overview:
   title: Boost your career.
   content: >
@@ -22,18 +22,19 @@ timeline:
 
           Be part of our Business Development or Technology Scouting Team
         date: 5 months
-      - title: Silicon Valley, USA
+      - title: Silicon Valley (Mobility), USA
         content: >
-          Be at the heart of innovation at our Headquarter
+          Be part of the mobility team at our HQ in Silicon Valley and see how it compares to Stuttgart
         date: 2 weeks
-      - title: Amsterdam, Paris, Munich or Frankfurt
+      - title: Tokyo, Singapur, Berlin, Paris
         content: >
-          Join one of our offices in Europe which are focused on different industries
+          Join one of our international mobility related offices
         date: 1 week
-      - title: Germany
+      - title: Germany, Daimler AG
         content: >
-          Change perspective by joining one of our corporate partners or one of our portfolio companies
-        date: 2 weeks
+          Change perspective by joining our corporate partner Daimler
+        date: 3 months
+        icon: daimler
       - title: Take a break!
         content: >
           Travel and explore the world
