@@ -124,7 +124,7 @@ focus:
     Now it is your turn. What are you going to choose?
   items:
     - title: Innovation Management & Technology<br><br>StartUp Scouting
-      active: false
+      active: true
       info:
         - Find interesting startups from all around the world and build relationships with them
         - Create detailed profiles about interesting startups
