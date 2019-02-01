@@ -115,6 +115,7 @@ alumni:
     - A position as a working student if it fits the circumstances
     - Visit all of our events globally to keep growing your network and meeting new friends
     - Need support with your master thesis? We’re happy to help!
+    - Become an ambassador at your university
 focus:
   title: <span class="very-small">Pick your</span><br><span class="big">focus.</span>
   intro: >
