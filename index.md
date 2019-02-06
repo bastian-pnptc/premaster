@@ -18,7 +18,7 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany.
 
           Be part of our Business Development or Technology Scouting Team
         date: 5 months
@@ -28,7 +28,7 @@ timeline:
         date: 2 weeks
       - title: Tokyo, Singapur, Berlin, Paris
         content: >
-          Join one of our international mobility related offices
+          Join one of our international mobility-related offices
         date: 1 week
       - title: Germany, Daimler AG
         content: >
@@ -43,7 +43,7 @@ timeline:
         content: >
           Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
         date: 4 months
-  - title: Corporation Innovation Management
+  - title: Corporate Innovation Management
     blocks:
       - title: Apply for the Innovation PreMaster Program
         content: >
@@ -51,11 +51,11 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany Be part of our Corporation Innovation Management Team
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Corporate Innovation Management Team
         date: 6 months
       - title: Silicon Valley — Global Mobility headquarter
         content: >
-          Be at the heart of innovation at our Headquarter
+          Be at the heart of innovation at our headquarter
         date: 2 months
       - title: Break
         content: >
@@ -63,15 +63,15 @@ timeline:
         date: 1 months
       - title: Startup/Ventures Team
         content: >
-          Back in Stuttgart, Germany you get the chance to work together with the Ventures Team to broaden your skills even further
+          Back in Stuttgart, Germany you get the chance to gain insights into our Ventures Team by working hand in hand with them on technology scouting or support one of our 30+ program startups
         date: 2 weeks
       - title: Other PnP Location (Japan, Singapore or others) — optional
         content: >
-          If you are interested to reach out to our other PnP Locations this is your chance to get in touch with one of our international offices
+          If you are interested in a change of scenery you can support our other PnP Locations which are located all over the world
         date: 2 weeks
       - title: Stuttgart, Germany
         content: >
-          You will conclude your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
+          You will end your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
         date: 2 months
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
@@ -82,7 +82,7 @@ what_we_offer:
     - Be part of a dynamic, international and open-minded team
     - Get access to and communicate with leading international startups and investors
     - You will work closely with our corporate partners on a daily basis and grow your network
-    - After your Masters degree we will have various opportunities for your career development at our 20+ locations worldwide - we will keep growing in 2018
+    - After your masters degree we will have various opportunities for your career development at our 20+ locations worldwide - we will keep growing in 2019
     - Contribute and realize your own ideas and have room for self-development
     - All our offices are located in great co-working spaces such as ARENA2036
 about:
@@ -104,12 +104,12 @@ about:
         STARTUP AUTOBAHN is our flagship innovation platform, located in Stuttgart. The platform is the largest in Europe and one of the latest programs of Plug and Play. STARTUP AUTOBAHN unites global young tech companies with the unrivalled tech expertise of Silicon Valley and the best of German engineering.
 
 
-        Founded by Plug and Play, Daimler AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we accelerate - together with our 19 corporate partners - startups which develop innovative solutions in the field of Future Mobility and Smart Production.
+        Founded by Plug and Play, Daimler AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
 alumni:
   title: Alumni<br>Perks.
   tagline: 'What happens during your studies:'
   intro: >
-    You will start your master’s degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
+    You will start your masters degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
   perks:
     - Your Plug and Play supervisor will be your mentor in case you need expert guidance
     - A position as a working student if it fits the circumstances
@@ -119,7 +119,7 @@ alumni:
 focus:
   title: <span class="very-small">Pick your</span><br><span class="big">focus.</span>
   intro: >
-    We know that we are all individual human beeings and as such our capabilities, our knowledge and our interests highly diverge from each other. Taking that into account we created two different programs which are united in the underlying idea and structure but seperate each other regarding the business sector they focus on.
+    We know that we are all individual human beings and as such our capabilities, our knowledge and our interests highly diverge from each other. Taking that into account we created two different programs which are united in the underlying idea and structure but separate each other regarding the business sector they focus on.
 
 
     Now it is your turn. What are you going to choose?
