@@ -97,7 +97,8 @@ about:
     - title: Daimler AG
       logo: daimler_pri_wht_rgb
       description: >
-        Praesent lacinia felis potenti laoreet condimentum ornare, morbi porttitor egestas aliquam dapibus interdum iaculis, tellus curae aenean neque vel. Etiam cras molestie finibus venenatis per placerat mus nascetur vehicula cubilia eros, eu vulputate consequat egestas mauris magnis in ligula suspendisse a bibendum, fermentum class ridiculus lacinia praesent platea pharetra mi interdum proin. Taciti adipiscing dui phasellus leo finibus sapien eleifend vehicula est vel neque facilisis integer, porta sollicitudin orci felis lacinia suscipit nascetur dictumst vitae class mus. Auctor purus dignissim praesent tellus turpis lacinia ornare, fames sollicitudin fermentum nullam tristique nisi, lobortis urna torquent etiam tortor donec.
+        Daimler AG is one of the world’s most successful automotive companies. With its divisions Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses and Daimler Financial Services, the Daimler Group is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.
+        The company’s founders, Gottlieb Daimler and Carl Benz, made history with the invention of the automobile in the year 1886. As a pioneer of automotive engineering, Daimler continues to shape the future of mobility today: The Group’s focus is on innovative and green technologies as well as on safe and superior automobiles that appeal to and fascinate.
     - title: STARTUP AUTOBAHN
       logo: sa_pri_black_rgb
       description: >
