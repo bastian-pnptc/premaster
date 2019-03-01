@@ -50,6 +50,12 @@ section.timeline {
       font-size: .6em;
       font-weight: 400;
       opacity: .5;
+      display: block;
+      margin-bottom: 5px;
+      @include media-query($small) {
+        margin: 0;
+        display: inline;
+      }
     }
   }
   .pnp-timeline__content {
@@ -189,6 +195,7 @@ section.timeline {
     position: relative;
     z-index: 1;
     margin-top: -5px;
+    color: grey;
     &:before {
       background: $green;
       content: '';
