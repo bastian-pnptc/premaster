@@ -5,7 +5,7 @@ title: Automotive PreMaster
 overview:
   title: Boost your career.
   content: >
-    You just got your bachelor’s degree but you are unsure of what exactly you would like to do next? We feel you! You probably want to have it all: See the world, improve your language skills, take the time to explore the best masters program for you, get hands-on insights by doing relevant work experience and grow your network. If that sounds like you, you’re in the right place - thanks to our unique global innovation platform you can have it all!
+    You just got your bachelor’s degree but you are unsure of what exactly you would like to do next? We feel you! You probably want to have it all: See the world, improve your language skills, take the time to explore the best masters program for you, get hands-on insights by gaining relevant work experience and grow your network. If that sounds like you, you’re in the right place - thanks to our unique global innovation platform you can have it all!
 
 
     Become part of our great team and gain valuable international experiences! Apply for our PreMaster program and boost you career while having fun!
@@ -143,7 +143,7 @@ focus:
 requirements:
   title: What you<br>should<br>bring.
   list:
-    - You just received your Bachelor’s degree in Economics, Business, Engineering, Informatics or similar and you would like to start a masters program within the next 18 months
+    - You just received your Bachelor’s degree in Economics, Business, Engineering, Informatics or similar from a leading university and you would like to start a masters program within the next 18 months
     - Exceptionally strong analytical, research, and writing skills and an innate curiosity
     - Ability to work with all levels of management is crucial
     - Excellent German and English skills
