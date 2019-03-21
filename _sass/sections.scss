@@ -154,7 +154,7 @@ section.about {
       padding: 50px 1em;
       background: $dark;
       @include display_flex;
-      @include align-items(center);
+      @include align-items(flex-start);
       @include justify-content(center);
       margin-bottom: 2px;
       &:last-of-type {
@@ -162,6 +162,11 @@ section.about {
       }
       .about__inner {
         max-width: 500px;
+        position: relative;
+        overflow: hidden;
+        .about__content {
+          transition: all ease-in-out .6s;
+        }
       }
       @include media-query($small){
         width: calc(50% - 1px);
@@ -184,6 +189,55 @@ section.about {
           }
         }
       };
+      .read-more {
+        position: absolute;
+        bottom: 0;
+        z-index: 1;
+        cursor: pointer;
+        width: 100%;
+        display: none;
+        @include align-items(flex-end);
+        i {
+          margin-right: 5px;
+        }
+      }
+      &.overflow {
+        .read-more {
+          @include display_flex;
+        }
+        .inactive_backdrop {
+          display: block;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          opacity: 1;
+          transition: all ease-in-out .6s;
+          background: linear-gradient(
+            to bottom,
+            hsla(203, 37%, 12%, 0) 0%,
+            hsla(203, 37%, 12%, 0.09) 16.2%,
+            hsla(203, 37%, 12%, 0.17) 29.6%,
+            hsla(203, 37%, 12%, 0.241) 40.7%,
+            hsla(203, 37%, 12%, 0.305) 49.8%,
+            hsla(203, 37%, 12%, 0.364) 57%,
+            hsla(203, 37%, 12%, 0.418) 62.8%,
+            hsla(203, 37%, 12%, 0.47) 67.5%,
+            hsla(203, 37%, 12%, 0.522) 71.3%,
+            hsla(203, 37%, 12%, 0.575) 74.6%,
+            hsla(203, 37%, 12%, 0.63) 77.6%,
+            hsla(203, 37%, 12%, 0.689) 80.7%,
+            hsla(203, 37%, 12%, 0.784) 84.2%,
+            hsla(203, 37%, 12%, 0.896) 88.4%,
+            hsla(203, 37%, 12%, 0.988) 93.5%,
+            hsl(203, 37%, 12%) 100%
+          );
+        }
+        &.active .inactive_backdrop {
+          opacity: 0;
+        }
+      }
     }
     .about__logo {
       height: 25px;

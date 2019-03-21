@@ -39,7 +39,7 @@ timeline:
         content: >
           Travel and explore the world
         date: 1 month
-      - title: Suttgart, Germany
+      - title: Stuttgart, Germany
         content: >
           Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
         date: 4 months
@@ -97,8 +97,8 @@ about:
     - title: Daimler AG
       logo: daimler_pri_wht_rgb
       description: >
-        Daimler AG is one of the world’s most successful automotive companies. With its divisions Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses and Daimler Financial Services, the Daimler Group is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.
-        The company’s founders, Gottlieb Daimler and Carl Benz, made history with the invention of the automobile in the year 1886. As a pioneer of automotive engineering, Daimler continues to shape the future of mobility today: The Group’s focus is on innovative and green technologies as well as on safe and superior automobiles that appeal to and fascinate.
+        Daimler AG is one of the world's most successful automotive companies. With its Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses, and Daimler Financial Services divisions, the Group is one of the leading global suppliers of premium cars and is the world's largest manufacturer of commercial vehicles over six tons. Daimler Financial Services offers financing, leasing, fleet management, investments, credit card and insurance brokerage as well as innovative mobility services. The company founders, Gottlieb Daimler and Carl Benz, made history by inventing the automobile in 1886. As a pioneer of automotive engineering, Daimler sees shaping the future of mobility in a safe and sustainable way as both a motivation and obligation.
+        The company's focus therefore remains on innovative and green technologies as well as on safe and superior vehicles that both captivate and inspire. Daimler continues to invest systematically in the development of efficient powertrains – from high-tech combustion engines and hybrid vehicles to all-electric powertrains with battery or fuel cell – with the goal of making locally emission-free driving possible in the long term. The company's efforts are also focused on the intelligent connectivity of its vehicles, autonomous driving and new mobility concepts. Daimler regards it as its aspiration and obligation to live up to its responsibility to society and the environment. Daimler sells its vehicles and services in nearly every country of the world and has production facilities in Europe, North and South America, Asia and Africa. In addition to Mercedes-Benz, the world's most valuable premium automotive brand (source: Interbrand study, 4 Oct. 2018), and Mercedes-AMG, Mercedes-Maybach and Mercedes me, its brand portfolio includes smart, EQ, Freightliner, Western Star, BharatBenz, FUSO, Setra and Thomas Built Buses as well as the brands of Daimler Financial Services: Mercedes-Benz Bank, Mercedes-Benz Financial Services and Daimler Truck Financial. The company is listed on the Frankfurt and Stuttgart stock exchanges (ticker symbol DAI). In 2018, the Group had a workforce of around 298,700 and sold 3.4 million vehicles. Group revenues amounted to €167.4 billion and Group EBIT to €11.1 billion.
     - title: STARTUP AUTOBAHN
       logo: sa_pri_black_rgb
       description: >

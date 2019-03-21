@@ -10,7 +10,11 @@
         <div class="about__logo">
           {% include svg/{{el.logo}}.svg %}
         </div>
-        {{ el.description | markdownify }}
+        <div class="about__content">
+          {{ el.description | markdownify }}
+        </div>
+        <div class="inactive_backdrop"></div>
+        <div class="read-more"><p><i class="far fa-caret-square-down"></i>Read more</p></div>
       </div>
     </div>
     {% endfor %}
