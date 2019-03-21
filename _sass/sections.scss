@@ -162,10 +162,10 @@ section.about {
       }
       .about__inner {
         max-width: 500px;
-        position: relative;
         overflow: hidden;
         .about__content {
           transition: all ease-in-out .6s;
+          position: relative;
         }
       }
       @include media-query($small){
