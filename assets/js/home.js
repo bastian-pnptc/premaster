@@ -46,6 +46,8 @@ function expand_about(el) {
   }
 }
 
-$('.about__item').each( function() {
-  expand_about(this);
-})
+$( document ).ready(function() {
+  $('.about__item').each( function() {
+    expand_about(this);
+  });
+});
