@@ -155,7 +155,11 @@ requirements:
 join_us:
   title: Join us!
   content: >
-    You can apply at any time - we do our best to adapt the program to your needs as long as the duration stays between **10 to 18 months**.
+    You can apply at any time - we do our best to adapt the program to your needs as long as the duration stays between **10 to 18 months**.   
+    
+
+
+    **PLEASE NOTE:** The fastest way to get your application reviewed is to apply via the link below. You might have read about this program on external job boards including Daimlers career site. Those applications will not be lost but if you want to reach us with out any detours, click below.
 contact:
   title: 'Reach<br>out<br>to'
   address:
