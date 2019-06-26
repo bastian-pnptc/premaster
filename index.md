@@ -10,7 +10,7 @@ overview:
 
     Become part of our great team and gain valuable international experiences! Apply for our PreMaster program and boost you career while having fun!
 timeline:
-  - title: Innovation Management & Technology
+  - title: Innovation Management & Technology Scouting
     blocks:
       - title: Apply for the Innovation PreMaster Program
         content: >
