@@ -73,6 +73,33 @@ timeline:
         content: >
           You will end your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
         date: 2 months
+  - title: Community & Communication Manager
+    blocks:
+      - title: Apply for the Innovation PreMaster Program
+        content: >
+          During the last semester of your degree or even after your graduation. We are always open for applications.
+        date: anytime
+      - title: Stuttgart, Germany
+        content: >
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Program Management /Communications Team
+        date: 6 - 7 months
+      - title: Paris, Amsterdam, London, Milan (1 - 2 Offices)
+        content: >
+          Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
+        date: 2 weeks
+      - title: Daimler AG
+        content: >
+          'Change perspective by joining our corporate partner Daimler. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
+        date: 2 months
+        icon: daimler
+      - title: Take a break
+        content: >
+          'Travel and explore the world. A gap year is all about gaining practical experience: We give you the opportunity to take up to 1 month off, to travel the world.'
+        date: up to 1 month
+      - title: Back in Stuttgart
+        content: >
+          Back at Plug and Play in Stuttgart you can spend up to 50% of your time with a team (Business Development; Marketing or Ventures/Technology Scouting) to get an even more comprehensive perspective.
+        date: 3 - 4 months
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
@@ -143,7 +170,7 @@ focus:
 requirements:
   title: What you<br>should<br>bring.
   list:
-    - You just received your Bachelor’s degree in Economics, Business, Engineering, Informatics or similar from a leading university and you would like to start a masters program within the next 18 months
+    - You just received your Bachelor’s degree in Economics, Business, Marketing, Engineering, Informatics or similar from a leading university and you would like to start a masters program within the next 18 months
     - Exceptionally strong analytical, research, and writing skills and an innate curiosity
     - Ability to work with all levels of management is crucial
     - Excellent German and English skills
@@ -168,5 +195,5 @@ contact:
     phone: +49 (0) 177 302 1485
     email: daniel@pnptc.com
 footer:
-  - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b>.'
+  - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
 ---

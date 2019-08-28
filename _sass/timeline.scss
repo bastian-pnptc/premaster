@@ -6,12 +6,12 @@ section.timeline {
     @include display_flex;
     @include direction_row;
     //@include align-items(flex-start);
-    width: 200%;
+    width: 300%;
   }
   .pnp-timeline {
     position: relative;
     //width: 90%;
-    flex: 0 0 50%;
+    flex: 0 0 calc(100% / 3);
     max-width: 1170px;
     margin: 0 auto;
     padding: 7em 1em 2em;

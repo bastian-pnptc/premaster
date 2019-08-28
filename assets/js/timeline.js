@@ -14,6 +14,7 @@ function calc_height( input ) {
 
 function move( input ) {
   var no = num_elements();
+  //console.log(no);
   var calculation = 100 / no * (input - 1);
   console.log(calculation)
   $('.pnp-timeline__frame').css('transform', 'translateX( -' + calculation + '% )');
