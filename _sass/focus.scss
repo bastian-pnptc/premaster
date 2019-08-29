@@ -22,6 +22,7 @@ section.focus {
     @include direction_column;
     @include media-query($small){
       @include direction_row;
+      flex-wrap: wrap;
     };
     max-width: 1400px;
     margin: 50px auto 0;
@@ -32,20 +33,23 @@ section.focus {
   .focus__items_frame {
     @include display_flex;
     @include direction_column;
-    &:last-of-type {
+    &:not(:first-of-type) {
       margin-top: 50px;
     }
     @include media-query($small) {
-      width: 50%;
+      width: calc(50% - 1em);
       margin: 0 .5em;
       &:first-of-type {
         margin-left: 0;
         @include align-items(flex-end);
       }
-      &:last-of-type {
-        margin-right: 0;
+      &:nth-of-type(2) {
         margin-top: 0;
       }
+      // &:last-of-type {
+      //   margin-right: 0;
+      //   margin-top: 0;
+      // }
     }
   }
   .focus__item {
@@ -120,16 +124,28 @@ section.focus {
     @include media-query($medium) {
       @include align-items(flex-start);
     }
+
+  }
+  .focus_list__item {
+    padding: 20px;
+    &:not(:last-of-type) {
+      margin-bottom: 10px;
+    }
   }
   .focus__items_frame:first-of-type .focus_list {
     @include media-query($medium) {
       @include align-items(flex-end);
     }
   }
-  .focus_list__item {
-    padding: 20px;
-    &:not(:last-of-type) {
-      margin-bottom: 10px;
+  .focus__items_frame:nth-of-type(3) {
+    @include media-query($medium) {
+      @include align-items(center);
+      .focus_list {
+        @include align-items(center);
+        p {
+          text-align: center;
+        }
+      }
     }
   }
 }

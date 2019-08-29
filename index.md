@@ -167,6 +167,15 @@ focus:
         - Identify potential new strategic partners to join our platform
         - Build and design our new service offering in our corporate facing documents
         - Prepare reports for our headquarter in Silicon Valley
+    - title: Community & Communication Manager
+      active: true
+      info:
+        - Support and take responsibility in organizing and operating national and international events inside and outside of STARTUP AUTOBAHN
+        - Manage local and global community relations
+        - Create relevant and engaging content for use on STARTUP AUTOBAHN’s media channels – online and offline
+        - Proactively schedule, develop, update and enhance the communications within our digital communication channels
+        - Support in drafting and executing an effective program and content strategies
+        - Be responsible for relationships with media and community partners to gain exposure for the Plug and Play and the STARTUP AUTOBAHN brand 
 requirements:
   title: What you<br>should<br>bring.
   list:
