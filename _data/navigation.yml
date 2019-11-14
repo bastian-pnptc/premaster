@@ -1,6 +1,8 @@
 footer:
   - name: STARTUP AUTOBAHN
     url: https://startupautobahn.com
+  - name: Sitemap
+    url: /sitemap.xml
   - name: Imprint
     url: /imprint/
   - name: Privacy Policy
