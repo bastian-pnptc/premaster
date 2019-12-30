@@ -1,4 +1,4 @@
-<footer {% if page.layout == 'static' %}class="static_footer"{% endif %}>
+<footer {% if page.layout == 'static' %}class="static_footer"{% else %}class="mt3"{% endif %}>
 
   {% if page.footer.size > 0 %}
   <div class="amendment sans-serif">
@@ -36,7 +36,22 @@
           {% endfor %}
         </ul>
       </div>
+
+      <!-- <div>
+        <ul>
+          <li>
+            <p>&copy; 2019</p>
+          </li>
+        </ul>
+      </div> -->
+
     </div>
 
   </div>
+  {% assign build_year = site.time | date: "%Y" %}
+  <div class="copyright sans-serif mt4 flex justify-between">
+    <p>FROM STUTTGART WITH ♡</p>
+    <p>PLUG AND PLAY &copy; 2019{% if build_year > '2019' %} – {{ build_year }}{% endif %}</p>
+  </div>
+
 </footer>
