@@ -25,8 +25,8 @@ timeline:
       - title: Silicon Valley (Mobility), USA
         content: >
           Be part of the mobility team at our HQ in Silicon Valley and see how it compares to Stuttgart
-        date: 2 weeks
-      - title: Tokyo, Singapur, Berlin, Paris
+        date: 1 weeks
+      - title: Singapur, Vienna, Frankfurt, Paris
         content: >
           Join one of our international mobility-related offices
         date: 1 week
@@ -56,7 +56,7 @@ timeline:
       - title: Silicon Valley — Global Mobility headquarter
         content: >
           Be at the heart of innovation at our headquarter
-        date: 2 months
+        date: 2 weeks
       - title: Break
         content: >
           Travel and explore the world
@@ -65,10 +65,10 @@ timeline:
         content: >
           Back in Stuttgart, Germany you get the chance to gain insights into our Ventures Team by working hand in hand with them on technology scouting or support one of our 30+ program startups
         date: 2 weeks
-      - title: Other PnP Location (Japan, Singapore or others) — optional
+      - title: Other PnP Location (Paris, Frankfurt, Valencia or Vienna)
         content: >
           If you are interested in a change of scenery you can support our other PnP Locations which are located all over the world
-        date: 2 weeks
+        date: 1 weeks
       - title: Stuttgart, Germany
         content: >
           You will end your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
