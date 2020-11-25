@@ -323,8 +323,8 @@ section.alumni {
 }
 
 section.join_us {
-  margin-bottom: 25px;
-  a {
+  margin-bottom: -15px;
+  a.btn {
     background: $dark;
     display: inline-block;
     padding: 20px 35px;
@@ -338,7 +338,22 @@ section.join_us {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     border: none;
   }
+  .box_padding {
+    padding: 25px;
+    margin: 75px 0 0px;
+    background: grey;
+    z-index: 2;
+    position: relative;
+    a {
+      color: white;
+      font-weight: 600;
+    }
+    h3 {
+      margin-top: 0;
+    }
+  }
 }
+
 
 section.contact {
   @include display_flex;

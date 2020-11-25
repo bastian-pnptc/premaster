@@ -196,13 +196,21 @@ join_us:
 
 
     **PLEASE NOTE:** The fastest way to get your application reviewed is to apply via the link below. You might have read about this program on external job boards including Daimlers career site. Those applications will not be lost but if you want to reach us with out any detours, click below.
+  box_title: Not ready for the full 12-month experience?  
+  box: >
+     We are always looking for interns in all fields of business as well as talents for a special position in the interdisciplinary area between graphic design, coding and economics.
+
+
+     If you think you are a fit please address your application to [Eva (eva@pnptc.com)](mailto:eva@pnptc.com).      
+
+     We are thrilled to get you on board.
 contact:
   title: 'Reach<br>out<br>to'
   address:
-    name: Daniel Dilger
-    position: Ventures Director
-    phone: +49 (0) 177 302 1485
-    email: daniel@pnptc.com
+    name: Eva Auer
+    position: Executive Assistant
+    phone: +49 (0) 151 4646 87 34
+    email: eva@pnptc.com
 footer:
   - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
 ---
