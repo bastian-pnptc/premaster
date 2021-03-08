@@ -10,33 +10,6 @@ overview:
 
     Become part of our great team and gain valuable international experiences! Apply for our PreMaster program and boost you career while having fun!
 timeline:
-  - title: Community & Communication Manager
-    blocks:
-      - title: Apply for the Innovation PreMaster Program
-        content: >
-          During the last semester of your degree or even after your graduation. We are always open for applications.
-        date: anytime
-      - title: Stuttgart, Germany
-        content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Program Management /Communications Team
-        date: 6 - 7 months
-      - title: Paris, Amsterdam, London, Milan (1 - 2 Offices)
-        content: >
-          Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
-        date: 2 weeks
-      - title: Daimler AG
-        content: >
-          'Change perspective by joining our corporate partner Daimler. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
-        date: 2 months
-        icon: daimler
-      - title: Take a break
-        content: >
-          'Travel and explore the world. A gap year is all about gaining practical experience: We give you the opportunity to take up to 1 month off, to travel the world.'
-        date: up to 1 month
-      - title: Back in Stuttgart
-        content: >
-          Back at Plug and Play in Stuttgart you can spend up to 50% of your time with a team (Business Development; Marketing or Ventures/Technology Scouting) to get an even more comprehensive perspective.
-        date: 3 - 4 months
   - title: Innovation Management & Ventures
     blocks:
       - title: Apply for the Innovation PreMaster Program
@@ -70,6 +43,33 @@ timeline:
         content: >
           Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
         date: 4 months
+  - title: Community & Communication Manager
+    blocks:
+      - title: Apply for the Innovation PreMaster Program
+        content: >
+          During the last semester of your degree or even after your graduation. We are always open for applications.
+        date: anytime
+      - title: Stuttgart, Germany
+        content: >
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Program Management /Communications Team
+        date: 6 - 7 months
+      - title: Paris, Amsterdam, London, Milan (1 - 2 Offices)
+        content: >
+          Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
+        date: 2 weeks
+      - title: Daimler AG
+        content: >
+          'Change perspective by joining our corporate partner Daimler. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
+        date: 2 months
+        icon: daimler
+      - title: Take a break
+        content: >
+          'Travel and explore the world. A gap year is all about gaining practical experience: We give you the opportunity to take up to 1 month off, to travel the world.'
+        date: up to 1 month
+      - title: Back in Stuttgart
+        content: >
+          Back at Plug and Play in Stuttgart you can spend up to 50% of your time with a team (Business Development; Marketing or Ventures/Technology Scouting) to get an even more comprehensive perspective.
+        date: 3 - 4 months
   - title: Corporate Innovation Management
     blocks:
       - title: Apply for the Innovation PreMaster Program
