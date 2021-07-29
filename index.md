@@ -30,11 +30,11 @@ timeline:
         content: >
           Join one of our international mobility-related offices
         date: 1 week
-      - title: Germany, Daimler AG
+      - title: Germany, Mercedes-Benz AG
         content: >
-          Change perspective by joining our corporate partner Daimler
+          Change perspective by joining our corporate partner Mercedes-Benz
         date: 3 months
-        icon: daimler
+        icon: mbag
       - title: Take a break!
         content: >
           Travel and explore the world
@@ -57,11 +57,11 @@ timeline:
         content: >
           Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
         date: 2 weeks
-      - title: Daimler AG
+      - title: Mercedes-Benz AG
         content: >
-          'Change perspective by joining our corporate partner Daimler. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
+          'Change perspective by joining our corporate partner Mercedes-Benz. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
         date: 2 months
-        icon: daimler
+        icon: mbag
       - title: Take a break
         content: >
           'Travel and explore the world. A gap year is all about gaining practical experience: We give you the opportunity to take up to 1 month off, to travel the world.'
@@ -121,8 +121,8 @@ about:
       logo: pnp_pri_blk_rgb
       description: >
         Over the past 12 years, we have built the worldwide largest innovation platform, bringing together startups, corporations and investors. Our core objective is to boost technological advancement and innovation. We are now active in 22 locations globally, including U.S., China, Germany, Singapore, and Mexico. With over 6,000 startups and 126 corporate partners, it is the ultimate startup ecosystem in many industries. Since inception, we have raised over $6 billion in venture funding and made over 160 investments globally every year. Some of our success stories incl.: Dropbox, PayPal and SoundHound.
-    - title: Daimler AG
-      logo: daimler_pri_wht_rgb
+    - title: Mercedes-Benz AG
+      logo: mercedesbenz_pri_blk_rgb
       description: >
         Daimler AG is one of the world's most successful automotive companies. With its Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses, and Daimler Financial Services divisions, the Group is one of the leading global suppliers of premium cars and is the world's largest manufacturer of commercial vehicles over six tons. Daimler Financial Services offers financing, leasing, fleet management, investments, credit card and insurance brokerage as well as innovative mobility services. The company founders, Gottlieb Daimler and Carl Benz, made history by inventing the automobile in 1886. As a pioneer of automotive engineering, Daimler sees shaping the future of mobility in a safe and sustainable way as both a motivation and obligation.
         The company's focus therefore remains on innovative and green technologies as well as on safe and superior vehicles that both captivate and inspire. Daimler continues to invest systematically in the development of efficient powertrains – from high-tech combustion engines and hybrid vehicles to all-electric powertrains with battery or fuel cell – with the goal of making locally emission-free driving possible in the long term. The company's efforts are also focused on the intelligent connectivity of its vehicles, autonomous driving and new mobility concepts. Daimler regards it as its aspiration and obligation to live up to its responsibility to society and the environment. Daimler sells its vehicles and services in nearly every country of the world and has production facilities in Europe, North and South America, Asia and Africa. In addition to Mercedes-Benz, the world's most valuable premium automotive brand (source: Interbrand study, 4 Oct. 2018), and Mercedes-AMG, Mercedes-Maybach and Mercedes me, its brand portfolio includes smart, EQ, Freightliner, Western Star, BharatBenz, FUSO, Setra and Thomas Built Buses as well as the brands of Daimler Financial Services: Mercedes-Benz Bank, Mercedes-Benz Financial Services and Daimler Truck Financial. The company is listed on the Frankfurt and Stuttgart stock exchanges (ticker symbol DAI). In 2018, the Group had a workforce of around 298,700 and sold 3.4 million vehicles. Group revenues amounted to €167.4 billion and Group EBIT to €11.1 billion.
@@ -132,7 +132,7 @@ about:
         STARTUP AUTOBAHN is our flagship innovation platform, located in Stuttgart. The platform is the largest in Europe and one of the latest programs of Plug and Play. STARTUP AUTOBAHN unites global young tech companies with the unrivalled tech expertise of Silicon Valley and the best of German engineering.
 
 
-        Founded by Plug and Play, Daimler AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
+        Founded by Plug and Play, Mercedes-Benz AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
 alumni:
   title: Alumni<br>Perks.
   tagline: 'What happens during your studies:'
@@ -163,7 +163,7 @@ focus:
     - title: Corporate Innovation Management<br><br>Business Development
       active: true
       info:
-        - Manage and strengthen the relationship with our corporate partners like Porsche, BASF, Deutsche Post DHL Group, Hewlett Packard Enterprise, Daimler, ...
+        - Manage and strengthen the relationship with our corporate partners like Porsche, BASF, Deutsche Post DHL Group, Hewlett Packard Enterprise, Mercedes-Benz AG, ...
         - Identify potential new strategic partners to join our platform
         - Build and design our new service offering in our corporate facing documents
         - Prepare reports for our headquarter in Silicon Valley
@@ -195,13 +195,13 @@ join_us:
     
 
 
-    **PLEASE NOTE:** The fastest way to get your application reviewed is to apply via the link below. You might have read about this program on external job boards including Daimlers career site. Those applications will not be lost but if you want to reach us with out any detours, click below.
+    **PLEASE NOTE:** The fastest way to get your application reviewed is to apply via the link below. You might have read about this program on external job boards including Daimlers/Mercedes-Benz career site. Those applications will not be lost but if you want to reach us with out any detours, click below.
   box_title: Not ready for the full 12-month experience?  
   box: >
      We are always looking for interns in all fields of business as well as talents for a special position in the interdisciplinary area between graphic design, coding and economics.
 
 
-     If you think you are a fit please address your application to [Eva (eva@pnptc.com)](mailto:eva@pnptc.com).      
+     If you think you are a fit please address your application to [Daniela (d.iannini@pnptc.com)](mailto:d.iannini@pnptc.com).      
 
      We are thrilled to get you on board.
 contact:
@@ -212,5 +212,5 @@ contact:
     phone: +49 (0) 1577 9502552
     email: d.iannini@pnptc.com
 footer:
-  - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
+  - '1: Mercedes-Benz AG currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
 ---
