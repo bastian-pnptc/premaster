@@ -207,10 +207,10 @@ join_us:
 contact:
   title: 'Reach<br>out<br>to'
   address:
-    name: Eva Auer
+    name: Daniela Iannini
     position: Executive Assistant
-    phone: +49 (0) 151 4646 87 34
-    email: eva@pnptc.com
+    phone: +49 (0) 1577 9502552
+    email: d.iannini@pnptc.com
 footer:
   - '1: Daimler currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
 ---
