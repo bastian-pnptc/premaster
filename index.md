@@ -135,7 +135,7 @@ about:
         Founded by Plug and Play, Mercedes-Benz AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
 alumni:
   title: Alumni<br>Perks.
-  tagline: 'What happens during your studies:'
+  tagline: "What happens during your studies:"
   intro: >
     You will start your masters degree with a bigger network, more experience, insights in different industries and a boost of motivation. And we will continue to be on your side! This is in for you as PreMaster Alumni:
   perks:
@@ -175,7 +175,7 @@ focus:
         - Create relevant and engaging content for use on STARTUP AUTOBAHN’s media channels – online and offline
         - Proactively schedule, develop, update and enhance the communications within our digital communication channels
         - Support in drafting and executing an effective program and content strategies
-        - Be responsible for relationships with media and community partners to gain exposure for the Plug and Play and the STARTUP AUTOBAHN brand 
+        - Be responsible for relationships with media and community partners to gain exposure for the Plug and Play and the STARTUP AUTOBAHN brand
 requirements:
   title: What you<br>should<br>bring.
   list:
@@ -192,25 +192,25 @@ join_us:
   title: Join us!
   content: >
     You can apply at any time - we do our best to adapt the program to your needs as long as the duration stays between **10 to 18 months**.   
-    
+
 
 
     **PLEASE NOTE:** The fastest way to get your application reviewed is to apply via the link below. You might have read about this program on external job boards including Daimlers/Mercedes-Benz career site. Those applications will not be lost but if you want to reach us with out any detours, click below.
-  box_title: Not ready for the full 12-month experience?  
+  box_title: Not ready for the full 12-month experience?
   box: >
-     We are always looking for interns in all fields of business as well as talents for a special position in the interdisciplinary area between graphic design, coding and economics.
+    We are always looking for interns in all fields of business as well as talents for a special position in the interdisciplinary area between graphic design, coding and economics.
 
 
-     If you think you are a fit please address your application to [Daniela (d.iannini@pnptc.com)](mailto:d.iannini@pnptc.com).      
+    If you think you are a fit please address your application to [Daniela (d.iannini@pnptc.com)](mailto:d.iannini@pnptc.com).      
 
-     We are thrilled to get you on board.
+    We are thrilled to get you on board.
 contact:
-  title: 'Reach<br>out<br>to'
+  title: "Reach<br>out<br>to"
   address:
     name: Daniela Iannini
     position: Executive Assistant
-    phone: +49 (0) 1577 9502552
+    phone: +49 (0) 151 4646 8734
     email: d.iannini@pnptc.com
 footer:
-  - '1: Mercedes-Benz AG currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>.'
+  - "1: Mercedes-Benz AG currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>."
 ---
