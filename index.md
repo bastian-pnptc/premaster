@@ -109,7 +109,7 @@ what_we_offer:
     - Be part of a dynamic, international and open-minded team
     - Get access to and communicate with leading international startups and investors
     - You will work closely with our corporate partners on a daily basis and grow your network
-    - After your masters degree we will have various opportunities for your career development at our 20+ locations worldwide - we will keep growing in 2019
+    - After your masters degree we will have various opportunities for your career development at our 20+ locations worldwide - we will keep growing
     - Contribute and realize your own ideas and have room for self-development
     - All our offices are located in great co-working spaces such as ARENA2036
 about:
