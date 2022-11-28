@@ -20,29 +20,29 @@ timeline:
         content: >
           Startup Autobahn — our most successful platform located in Stuttgart, Germany.
 
-          Be part of our Business Development or Technology Scouting Team
+          Be part of our Technology Scouting and Investment Team.
         date: 5 months
-      - title: Silicon Valley (Mobility), USA
+      - title: Stuttgart EXPO
         content: >
-          Be part of the mobility team at our HQ in Silicon Valley and see how it compares to Stuttgart
-        date: 1 weeks
-      - title: Singapur, Vienna, Frankfurt, Paris
+          Be actively involved in setting up one of the largest Mobility EXPOs in Europe. Get a glimps [here](https://www.youtube.com/watch?v=osXHIliPcj4).
+        date: 2 weeks
+      - title: Vienna, Amsterdam, Paris, London
         content: >
-          Join one of our international mobility-related offices
-        date: 1 week
-      - title: Germany, Mercedes-Benz AG
+          Join one of our European Offices and get insights into a different vertical like Sustainability, Maritime, Travel or Smart Cities etc.
+        date: 2 week
+      - title: Germany, Mercedes-Benz AG (optional)
         content: >
           Change perspective by joining our corporate partner Mercedes-Benz
         date: 3 months
         icon: mbag
-      - title: Take a break!
+      - title: Join a portfolio startup (optional)
         content: >
-          Travel and explore the world
-        date: 1 month
-      - title: Stuttgart, Germany
+          Join one of our portfolio startups (e.g. [Flip](https://www.flipapp.de/) or [Sparetech](https://en.sparetech.io/)) and gain practical experience inside a fast-paced startup.
+        date: 3 month
+      - title: Stuttgart, Germany (optional)
         content: >
-          Back in Stuttgart you will spend 50% of your time with a team you have not worked with before to get even more insights
-        date: 4 months
+          Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Marketing & Communications Team for a specific project and get an even more comprehensive perspective.
+        date: 1 months
   - title: Community & Communication Manager
     blocks:
       - title: Apply for the Innovation PreMaster Program
@@ -51,24 +51,28 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Program Management /Communications Team
+          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Community Management & Communications Team
         date: 6 - 7 months
       - title: Paris, Amsterdam, London, Milan (1 - 2 Offices)
         content: >
           Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
         date: 2 weeks
-      - title: Mercedes-Benz AG
+      - title: Mercedes-Benz AG (optional)
         content: >
           'Change perspective by joining our corporate partner Mercedes-Benz. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
         date: 2 months
         icon: mbag
-      - title: Take a break
+      - title: Stuttgart, Germany (optional)
         content: >
-          'Travel and explore the world. A gap year is all about gaining practical experience: We give you the opportunity to take up to 1 month off, to travel the world.'
+          Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Marketing & Communications Team for a specific project.
         date: up to 1 month
-      - title: Back in Stuttgart
+      - title: Stuttgart EXPO
         content: >
-          Back at Plug and Play in Stuttgart you can spend up to 50% of your time with a team (Business Development; Marketing or Ventures/Technology Scouting) to get an even more comprehensive perspective.
+          Be actively involved in setting up one of the largest Mobility EXPOs in Europe. Get a glimps [here](https://www.youtube.com/watch?v=osXHIliPcj4).
+        date: 2 months
+      - title: Stuttgart, Germany (optional)
+        content: >
+          Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Ventures Team for a specific project to get an even more comprehensive perspective.
         date: 3 - 4 months
   - title: Corporate Innovation Management
     blocks:
@@ -84,18 +88,10 @@ timeline:
         content: >
           Be at the heart of innovation at our headquarter
         date: 2 weeks
-      - title: Break
+      - title: Vienna, Amsterdam, Paris, London
         content: >
-          Travel and explore the world
-        date: 1 months
-      - title: Startup/Ventures Team
-        content: >
-          Back in Stuttgart, Germany you get the chance to gain insights into our Ventures Team by working hand in hand with them on technology scouting or support one of our 30+ program startups
+          Join one of our European Offices and get insights into a different vertical like Sustainability, Maritime, Travel or Smart Cities etc.
         date: 2 weeks
-      - title: Other PnP Location (Paris, Frankfurt, Valencia or Vienna)
-        content: >
-          If you are interested in a change of scenery you can support our other PnP Locations which are located all over the world
-        date: 1 weeks
       - title: Stuttgart, Germany
         content: >
           You will end your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
@@ -120,19 +116,19 @@ about:
     - title: Plug and Play Tech Center
       logo: pnp_pri_blk_rgb
       description: >
-        Over the past 12 years, we have built the worldwide largest innovation platform, bringing together startups, corporations and investors. Our core objective is to boost technological advancement and innovation. We are now active in 22 locations globally, including U.S., China, Germany, Singapore, and Mexico. With over 6,000 startups and 126 corporate partners, it is the ultimate startup ecosystem in many industries. Since inception, we have raised over $6 billion in venture funding and made over 160 investments globally every year. Some of our success stories incl.: Dropbox, PayPal and SoundHound.
+        For more than over a decade, we have built the worldwide largest innovation platform, bringing together startups, corporations and investors. Our core objective is to boost technological advancement and innovation. We are now active in 22 locations globally, including U.S., China, Germany, Singapore, and Mexico. With over 6,000 startups and 126 corporate partners, it is the ultimate startup ecosystem in many industries. Since inception, we have raised over $6 billion in venture funding and made over 160 investments globally every year. Some of our success stories incl.: Dropbox, PayPal and SoundHound.
     - title: Mercedes-Benz AG
       logo: mercedesbenz_pri_blk_rgb
       description: >
         Daimler AG is one of the world's most successful automotive companies. With its Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses, and Daimler Financial Services divisions, the Group is one of the leading global suppliers of premium cars and is the world's largest manufacturer of commercial vehicles over six tons. Daimler Financial Services offers financing, leasing, fleet management, investments, credit card and insurance brokerage as well as innovative mobility services. The company founders, Gottlieb Daimler and Carl Benz, made history by inventing the automobile in 1886. As a pioneer of automotive engineering, Daimler sees shaping the future of mobility in a safe and sustainable way as both a motivation and obligation.
-        The company's focus therefore remains on innovative and green technologies as well as on safe and superior vehicles that both captivate and inspire. Daimler continues to invest systematically in the development of efficient powertrains – from high-tech combustion engines and hybrid vehicles to all-electric powertrains with battery or fuel cell – with the goal of making locally emission-free driving possible in the long term. The company's efforts are also focused on the intelligent connectivity of its vehicles, autonomous driving and new mobility concepts. Daimler regards it as its aspiration and obligation to live up to its responsibility to society and the environment. Daimler sells its vehicles and services in nearly every country of the world and has production facilities in Europe, North and South America, Asia and Africa. In addition to Mercedes-Benz, the world's most valuable premium automotive brand (source: Interbrand study, 4 Oct. 2018), and Mercedes-AMG, Mercedes-Maybach and Mercedes me, its brand portfolio includes smart, EQ, Freightliner, Western Star, BharatBenz, FUSO, Setra and Thomas Built Buses as well as the brands of Daimler Financial Services: Mercedes-Benz Bank, Mercedes-Benz Financial Services and Daimler Truck Financial. The company is listed on the Frankfurt and Stuttgart stock exchanges (ticker symbol DAI). In 2018, the Group had a workforce of around 298,700 and sold 3.4 million vehicles. Group revenues amounted to €167.4 billion and Group EBIT to €11.1 billion.
+        The company's focus therefore remains on innovative and green technologies as well as on safe and superior vehicles that both captivate and inspire. Daimler continues to invest systematically in the development of efficient powertrains – from high-tech combustion engines and hybrid vehicles to all-electric powertrains with battery or fuel cell – with the goal of making locally emission-free driving possible in the long term. The company's efforts are also focused on the intelligent connectivity of its vehicles, autonomous driving and new mobility concepts. Daimler regards it as its aspiration and obligation to live up to its responsibility to society and the environment. Daimler sells its vehicles and services in nearly every country of the world and has production facilities in Europe, North and South America, Asia and Africa. In addition to Mercedes-Benz, the world's most valuable premium automotive brand (source: Interbrand study, 4 Oct. 2018), and Mercedes-AMG, Mercedes-Maybach and Mercedes me, its brand portfolio includes smart, EQ, Freightliner, Western Star, BharatBenz, FUSO, Setra and Thomas Built Buses as well as the brands of Daimler Financial Services: Mercedes-Benz Bank, Mercedes-Benz Financial Services and Daimler Truck Financial. The company is listed on the Frankfurt and Stuttgart stock exchanges (ticker symbol DAI).
     - title: STARTUP AUTOBAHN
       logo: sa_pri_black_rgb
       description: >
         STARTUP AUTOBAHN is our flagship innovation platform, located in Stuttgart. The platform is the largest in Europe and one of the latest programs of Plug and Play. STARTUP AUTOBAHN unites global young tech companies with the unrivalled tech expertise of Silicon Valley and the best of German engineering.
 
 
-        Founded by Plug and Play, Mercedes-Benz AG, Hewlett Packard Enterprise, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
+        Founded by Plug and Play, Mercedes-Benz AG, ZF, Porsche, DPDHL, Webasto and BASF we - together with our 20+ corporate partners - accelerate startups which develop innovative solutions in the fields of Future Mobility and Smart Production.
 alumni:
   title: Alumni<br>Perks.
   tagline: "What happens during your studies:"
@@ -163,7 +159,7 @@ focus:
     - title: Corporate Innovation Management<br><br>Business Development
       active: true
       info:
-        - Manage and strengthen the relationship with our corporate partners like Porsche, BASF, Deutsche Post DHL Group, Hewlett Packard Enterprise, Mercedes-Benz AG, ...
+        - Manage and strengthen the relationship with our corporate partners like Porsche, BASF, Deutsche Post DHL Group, Mercedes-Benz AG, ...
         - Identify potential new strategic partners to join our platform
         - Build and design our new service offering in our corporate facing documents
         - Prepare reports for our headquarter in Silicon Valley
