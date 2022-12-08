@@ -29,7 +29,7 @@ timeline:
       - title: Vienna, Amsterdam, Paris, London
         content: >
           Join one of our European Offices and get insights into a different vertical like Sustainability, Maritime, Travel or Smart Cities etc.
-        date: 2 week
+        date: 2 weeks
       - title: Germany, Mercedes-Benz AG (optional)
         content: >
           Change perspective by joining our corporate partner Mercedes-Benz
@@ -38,7 +38,7 @@ timeline:
       - title: Join a portfolio startup (optional)
         content: >
           Join one of our portfolio startups (e.g. [Flip](https://www.flipapp.de/) or [Sparetech](https://en.sparetech.io/)) and gain practical experience inside a fast-paced startup.
-        date: 3 month
+        date: 3 months
       - title: Stuttgart, Germany (optional)
         content: >
           Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Marketing & Communications Team for a specific project and get an even more comprehensive perspective.
@@ -51,9 +51,9 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Community Management & Communications Team
+          STARTUP AUTOBAHN — our most successful platform located in Stuttgart, Germany. Be part of our Community Management & Communications Team
         date: 6 - 7 months
-      - title: Paris, Amsterdam, London, Milan (1 - 2 Offices)
+      - title: Paris, Amsterdam, London, Milan
         content: >
           Interested in a change of scenery and industry? Get insights into and support one of our European teams in industry verticals such as Supply Chain and Logistics, Insurtech, Healthtech, Sustainable Fashion, Smart Cities etc.
         date: 2 weeks
@@ -65,15 +65,11 @@ timeline:
       - title: Stuttgart, Germany (optional)
         content: >
           Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Marketing & Communications Team for a specific project.
-        date: up to 1 month
+        date: 1 month
       - title: Stuttgart EXPO
         content: >
           Be actively involved in setting up one of the largest Mobility EXPOs in Europe. Get a glimps [here](https://www.youtube.com/watch?v=osXHIliPcj4).
         date: 2 months
-      - title: Stuttgart, Germany (optional)
-        content: >
-          Get insights into another team within STARTUP AUTOBAHN and support our Corporate Innovation or Ventures Team for a specific project to get an even more comprehensive perspective.
-        date: 3 - 4 months
   - title: Corporate Innovation Management
     blocks:
       - title: Apply for the Innovation PreMaster Program
@@ -82,20 +78,21 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          Startup Autobahn — our most successful platform located in Stuttgart, Germany be part of our Corporate Innovation Management Team
+          STARTUP AUTOBAHN — our most successful platform located in Stuttgart, Germany. Be part of our Corporate Innovation Management Team
         date: 6 months
-      - title: Silicon Valley — Global Mobility headquarter
-        content: >
-          Be at the heart of innovation at our headquarter
-        date: 2 weeks
       - title: Vienna, Amsterdam, Paris, London
         content: >
           Join one of our European Offices and get insights into a different vertical like Sustainability, Maritime, Travel or Smart Cities etc.
         date: 2 weeks
+      - title: Mercedes-Benz AG (optional)
+        content: >
+          'Change perspective by joining our corporate partner Mercedes-Benz. Support their PR & Communication team at Startup Autobahn and gain insights into the other side of the aisle: Corporate innovation from the perspective of one of our most engaged partners.'
+        date: 2 months
+        icon: mbag
       - title: Stuttgart, Germany
         content: >
-          You will end your Premaster once again at the Stuttgart Office to bring together all the experiences of the past months
-        date: 2 months
+          Get insights into another team within STARTUP AUTOBAHN and support our Community & Communication or Ventures Team for a specific project to get an even more comprehensive perspective.
+        date: 1 month
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
