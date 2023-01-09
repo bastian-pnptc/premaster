@@ -78,7 +78,7 @@ timeline:
         date: anytime
       - title: Stuttgart, Germany
         content: >
-          STARTUP AUTOBAHN — our most successful platform located in Stuttgart, Germany. Be part of our Corporate Innovation Management Team
+          STARTUP AUTOBAHN — our most successful platform located in Stuttgart, Germany. Be part of our Corporate Innovation Management Team.
         date: 6 months
       - title: Vienna, Amsterdam, Paris, London
         content: >
@@ -97,7 +97,7 @@ timeline:
     blocks:
       - title: Stuttgart, Germany
         content: >
-          Working for Plug and Play EMEA in the office of our most successful platform so-called STARTUP AUTOBAHN powered by Plug and Play, located in Stuttgart, Germany. Be part of our Open Innovation Service Team.
+          Working for Plug and Play EMEA in the office of our most successful platform so-called STARTUP AUTOBAHN powered by Plug and Play, located in Stuttgart, Germany. Be part of our Open Innovation Service Team serving whole EMEA.
         date: 6 months
       - title: Valencia, Spain/Vienna, Austria
         content: >
