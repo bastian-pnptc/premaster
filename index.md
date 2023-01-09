@@ -93,6 +93,24 @@ timeline:
         content: >
           Get insights into another team within STARTUP AUTOBAHN and support our Community & Communication or Ventures Team for a specific project to get an even more comprehensive perspective.
         date: 1 month
+  - title: Open Innovation Consultant
+    blocks:
+      - title: Stuttgart, Germany
+        content: >
+          Working for Plug and Play EMEA in the office of our most successful platform so-called STARTUP AUTOBAHN powered by Plug and Play, located in Stuttgart, Germany. Be part of our Open Innovation Service Team.
+        date: 6 months
+      - title: Valencia, Spain/Vienna, Austria
+        content: >
+          Join our EMEA HQ in Valencia and work closely with our product and Open Innovation Service Team there or join our office in Vienna, working closely in our Corporate Education Program.
+        date: 3 months
+      - title: Partner Project
+        content: >
+          Be fully responsible for one consulting project with one partner of Plug and Play. Let's see what will come up when you are with us.
+        date: 2 months
+      - title: Stuttgart, Germany
+        content: >
+          Get insights into another team within STARTUP AUTOBAHN and support our Community & Communication or Ventures Team for a specific project to get an even more comprehensive perspective.
+        date: 1 month
 break_quote: <p>Your chance for a</p><p>12-month Deep Dive into the</p><p>biggest and fastest growing</p><p>automotive focused</p><p class="green">innovation platform</p><p>in Europe</p>
 what_we_offer:
   title: What<br>we<br>offer.
@@ -169,6 +187,17 @@ focus:
         - Proactively schedule, develop, update and enhance the communications within our digital communication channels
         - Support in drafting and executing an effective program and content strategies
         - Be responsible for relationships with media and community partners to gain exposure for the Plug and Play and the STARTUP AUTOBAHN brand
+    - title: Open Innovation Service Consulting
+      active: true
+      info:
+        - You will work on various tasks of the strategy and management consultants
+        - Defining and implementing our partner’s open innovation strategy and processes
+        - Development and visualization of result presentations for the customer
+        - Product and Pricing Strategy
+        - Ideation workshops
+        - Corporate education sessions
+        - Research and market analyses
+        - Preparing and following up on customer workshops
 requirements:
   title: What you<br>should<br>bring.
   list:
