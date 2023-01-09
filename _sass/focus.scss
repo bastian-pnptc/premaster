@@ -139,15 +139,4 @@ section.focus {
       @include align-items(flex-end);
     }
   }
-  // .focus__items_frame:nth-of-type(3) {
-  //   @include media-query($medium) {
-  //     @include align-items(center);
-  //     .focus_list {
-  //       @include align-items(center);
-  //       p {
-  //         text-align: center;
-  //       }
-  //     }
-  //   }
-  // }
 }

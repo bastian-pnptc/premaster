@@ -6,31 +6,31 @@ section.timeline {
     @include display_flex;
     @include direction_row;
     //@include align-items(flex-start);
-    width: 300%;
+    width: calc(100% * 4);
   }
   .pnp-timeline {
     position: relative;
     //width: 90%;
-    flex: 0 0 calc(100% / 3);
+    flex: 0 0 calc(100% / 4);
     max-width: 1170px;
     margin: 0 auto;
     padding: 7em 1em 2em;
     &:before {
-      content: '';
+      content: "";
       position: absolute;
       top: 0;
       left: calc(1em + 9px);
       height: 100%;
       width: 4px;
       background: white;
-      @include media-query($small){
+      @include media-query($small) {
         left: 50%;
         margin-left: -2px;
-      };
+      }
     }
-    @include media-query($large){
+    @include media-query($large) {
       padding: 2em 1em;
-    };
+    }
   }
   .pnp-timeline-acknowledgement {
     background: $dark;
@@ -41,15 +41,15 @@ section.timeline {
     border: 2px solid white;
     z-index: 2;
     position: relative;
-    @include media-query($small){
+    @include media-query($small) {
       margin-left: unset;
       margin: 0 auto;
       max-width: 600px;
-    };
+    }
     .acknowledgement_small {
-      font-size: .6em;
+      font-size: 0.6em;
       font-weight: 400;
-      opacity: .5;
+      opacity: 0.5;
       display: block;
       margin-bottom: 5px;
       @include media-query($small) {
@@ -67,12 +67,12 @@ section.timeline {
     p {
       margin-top: 0;
     }
-    @include media-query($small){
+    @include media-query($small) {
       width: 45%;
       margin-left: 0;
-    };
+    }
     &:before {
-      content: '';
+      content: "";
       position: absolute;
       top: 16px;
       right: 100%;
@@ -84,7 +84,7 @@ section.timeline {
         top: 24px;
         border-color: transparent;
         border-left-color: #fff;
-      };
+      }
     }
     svg {
       width: 150px;
@@ -101,11 +101,11 @@ section.timeline {
     height: 20px;
     border-radius: 50%;
     background: $green;
-    @include media-query($small){
+    @include media-query($small) {
       top: 24px;
       left: 50%;
       transform: translateX(-50%);
-    };
+    }
   }
   .pnp-timeline__date {
     display: inline-block;
@@ -123,7 +123,7 @@ section.timeline {
       white-space: nowrap;
       padding: 5px 10px;
       transform: translateY(-50%);
-    };
+    }
   }
   .pnp-timeline__block {
     position: relative;
@@ -134,7 +134,7 @@ section.timeline {
         @include media-query($small) {
           right: 100%;
           transform: rotate(180deg);
-        };
+        }
       }
       .pnp-timeline__date {
         left: auto;
@@ -147,7 +147,7 @@ section.timeline {
       &:before {
         @include media-query($small) {
           left: 100%;
-        };
+        }
       }
     }
     &:after {
@@ -184,10 +184,9 @@ section.timeline {
     }
     @include media-query($small) {
       font-size: 1.5rem;
-    };
+    }
     @include media-query($medium) {
-      width: calc(100%/2);
-
+      width: calc(100% / 2);
     }
   }
   span.timeline_element__title_small {
@@ -198,7 +197,7 @@ section.timeline {
     color: grey;
     &:before {
       background: $green;
-      content: '';
+      content: "";
       width: 100%;
       height: 7px;
       position: absolute;
