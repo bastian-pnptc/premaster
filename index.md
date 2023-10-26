@@ -223,16 +223,16 @@ join_us:
     We are always looking for interns in all fields of business as well as talents for a special position in the interdisciplinary area between graphic design, coding and economics.
 
 
-    If you think you are a fit please address your application to [Daniela (d.iannini@pnptc.com)](mailto:d.iannini@pnptc.com).      
+    If you think you are a fit please address your application to [Tamara (tamara@pnptc.com)](mailto:tamara@pnptc.com).      
 
     We are thrilled to get you on board.
 contact:
   title: "Reach<br>out<br>to"
   address:
-    name: Daniela Iannini
-    position: Executive Assistant
-    phone: +49 (0) 151 4646 8734
-    email: d.iannini@pnptc.com
+    name: Tamara Pyter
+    position: Director Partner Success
+    phone: +49 (0) 171 9123118
+    email: tamara@pnptc.com
 footer:
   - "1: Mercedes-Benz AG currently solely cooperates for the position  <b>Innovation Management & Technology</b> and <b>Community & Communication Manager</b>."
 ---
